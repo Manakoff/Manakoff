@@ -12,22 +12,22 @@
 
 | Категория | Технологии |
 | --- | --- |
-| **Языки программирования** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
-| **Фреймворки и асинхронность** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
-| **Базы данных и брокеры** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
-| **Инструменты и DevOps** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
+| **Языки программирования** | `Python`, `C++ (ООП)`, `JavaScript`, `SQL` |
+| **Фреймворки и асинхронность** | `Django`, `Django REST Framework (DRF)`, `Flask`, `Celery` |
+| **Базы данных и брокеры** | `PostgreSQL`, `MySQL`, `Redis`, `SQLite` |
+| **Инструменты и DevOps** | `Docker`, `Docker Compose`, `Git`, `GitHub` |
 | **Специализация** | Web API, Проектирование БД, Парсинг данных (Selenium, BS4), Unit-тестирование |
 
 ---
 
 ## 💻 Ключевые проекты
 
-### 🤖 [Карманный юрист-помощник (AI)](https://github.com)
+### 🤖 [Карманный юрист-помощник (AI)](https://github.com/Manakoff/legal_ai_project)
 *Интеллектуальный ассистент для семантического поиска по юридическим кодексам РФ.*
 *   **Мой вклад:** Спроектировал архитектуру БД в PostgreSQL, разработал отказоустойчивые парсеры данных (Selenium, BS4) для извлечения текстов законов, реализовал логику трансформации данных в векторный вид для ИИ-поиска.
 *   **Стек:** Python, PostgreSQL, Selenium, BeautifulSoup4, Requests, Matplotlib.
 
-### 🛒 [Интернет-магазин на Django](https://github.com)
+### 🛒 [Интернет-магазин на Django](https://github.com/Manakoff/django-store)
 *E-commerce платформа с архитектурой REST API и фоновой обработкой процессов.*
 *   **Реализовано:** Полноценное API корзины на DRF, авторизация с подтверждением по Email, фоновые задачи через Celery + Redis (отправка писем без блокировки сервера), транзакции базы данных для безопасного оформления заказов. Инфраструктура полностью контейнеризирована через Docker Compose.
 *   **Стек:** Django, Django REST Framework, PostgreSQL, Celery, Redis, Docker, Docker Compose, Pytest.
@@ -50,7 +50,7 @@
 ## 📬 Как со мной связаться
 
 *   **Telegram:** [@mona39_rf](https://t.me)
-*   **Email:** *твой_email@example.com* (замени на свой)
+*   **Email:** *manakov.aa@mail.ru*
 
 ---
 <p align="center">
