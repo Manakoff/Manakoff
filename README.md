@@ -12,10 +12,10 @@
 
 | Категория | Технологии |
 | --- | --- |
-| **Языки программирования** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Фреймворки и асинхронность** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Базы данных и брокеры** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
-| **Инструменты и DevOps** | <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> <img src="https://shields.io"/> |
+| **Языки программирования** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
+| **Фреймворки и асинхронность** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
+| **Базы данных и брокеры** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
+| **Инструменты и DevOps** | ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) |
 | **Специализация** | Web API, Проектирование БД, Парсинг данных (Selenium, BS4), Unit-тестирование |
 
 ---
