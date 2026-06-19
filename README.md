@@ -1,5 +1,5 @@
 # Привет! Я Андрей 
-### Junior Python / Backend Developer
+### Python / Backend Developer
 
 Я бэкенд-разработчик с глубокой фундаментальной базой, специализирующийся на создании надежных веб-сервисов, работе с базами данных и интеграции асинхронных решений. 
 
@@ -15,7 +15,7 @@
 | **Языки программирования** | `Python`, `C++ (ООП)`, `JavaScript`, `SQL` |
 | **Фреймворки и асинхронность** | `Django`, `Django REST Framework (DRF)`, `Flask`, `Celery` |
 | **Базы данных и брокеры** | `PostgreSQL`, `MySQL`, `Redis`, `SQLite` |
-| **Инструменты и DevOps** | `Docker`, `Docker Compose`, `Git`, `GitHub` |
+| **Инструменты и DevOps** | `Docker`, `Docker Compose`, `Git`, `GitHub`, `Gunicorn`, `Nginx` |
 | **Специализация** | Web API, Проектирование БД, Парсинг данных (Selenium, BS4), Unit-тестирование |
 
 ---
